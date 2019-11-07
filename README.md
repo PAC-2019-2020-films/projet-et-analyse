@@ -21,9 +21,9 @@ GRANT ALL PRIVILEGES ON `w2w`.* TO `w2w`@localhost IDENTIFIED BY 'w2w';
 
 ## Commentaires/questions
 
-(?) movies, title : enlever unique ?
-(?) movies, fk_category_id : autoriser null ?
-(?) reviews : unique(user,movie) => empêche admin écrire deux reviews dont une officielle et autre perso
-(?) reports + messages : treated boolean => treated_at datetime ?
+- movies, title : enlever unique ?
+- movies, fk_category_id : autoriser null ?
+- reviews : unique(user,movie) => empêche admin écrire deux reviews dont une officielle et autre perso
+- reports + messages : treated boolean => treated_at datetime ?
 
 
