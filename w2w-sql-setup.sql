@@ -56,7 +56,7 @@ CREATE TABLE `ratings` (
 
 CREATE TABLE `movies` (
     `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
-    `title` VARCHAR(100) NOT NULL,
+    `title` VARCHAR(100) UNIQUE NOT NULL,
     `description` VARCHAR(255),
     `year` INTEGER,
     `poster` VARCHAR(255),
