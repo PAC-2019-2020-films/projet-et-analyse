@@ -3,6 +3,10 @@ body
     background-color: antiquewhite;
 }
 
+body .bg_gris
+{
+    background-color: #4D5051;
+}
 /* NAV BAR */
 nav
 {
@@ -42,9 +46,11 @@ nav .hamburger
 
 /* FOOTER */
 
-footer {
-    padding-top: 15px;
+footer .bg_gris
+{
+    background-color: #4D5051;
 }
+
 
 footer .fa {
     font-size: 1.3em;
