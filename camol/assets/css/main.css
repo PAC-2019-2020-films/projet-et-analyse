@@ -15,7 +15,7 @@ nav
 
 nav a
 {
-    color: black;
+    color: antiquewhite;
     margin-left: 10px;
     margin-right: 10px;
     font-size: 1.5em;
@@ -38,12 +38,6 @@ nav .account_img
     height: auto;
 }
 
-nav .hamburger
-{
-    background-color:yellow;
-}
-
-
 /* FOOTER */
 
 footer .bg_gris
@@ -60,6 +54,11 @@ footer a {
         color:white;
 }
 
+footer .copyright
+{
+ color: antiquewhite;
+}
+
 footer p{
     font-size: 1.5em;
     padding: 5px 10px 0px 25px
@@ -68,4 +67,14 @@ footer p{
 footer .fa2 {
     font-size: 3em;
     padding-top: 25px;
+}
+
+footer .fa-twitter:hover
+{
+color: yellow;
+}
+
+footer .fa-facebook:hover
+{
+    color:darkblue;
 }
