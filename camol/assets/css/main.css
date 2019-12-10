@@ -42,82 +42,75 @@ body .bg_gris
     background-color: white;
 }
 
-
-
-
 /* CAROUSEL*/
 
 .movie_title
 {
 font-weight: bolder;
-font-size: 5em;
-margin-bottom: 550px;
+font-size: 5vw;
+margin-bottom: 28%;
 text-align: left;
 }
 
 .movie_annee
 {
     font-weight: bolder;
-    font-size: 1.5em;
-    margin-bottom: 500px;
+    font-size: 1.5vw;
+    margin-bottom: 26%;
     text-align: left;
 }
 
 .movie_separateur_1
 {
     font-weight: bolder;
-    font-size: 1.5em;
-    margin-bottom: 500px;
+    font-size: 1.5vw;
+    margin-bottom: 26%;
     text-align: left;
-    margin-left: 150px;
+    margin-left: 7%;
 }
 
 .movie_separateur_2
 {
     font-weight: bolder;
-    font-size: 1.5em;
-    margin-bottom: 500px;
+    font-size: 1.5vw;
+    margin-bottom: 26%;
     text-align: left;
-    margin-left: 400px;
+    margin-left: 22%;
 }
 
 
 .movie_categorie
 {
     font-weight: bolder;
-    font-size: 1.5em;
-    margin-bottom: 500px;
+    font-size: 1.5vw;
+    margin-bottom: 26%;
     text-align: left;
-    margin-left: 200px;
+    margin-left: 11%;
 }
 
 .movie_rank
 {
     font-weight: bolder;
-    font-size: 1.5em;
-    margin-bottom: 500px;
+    font-size: 1.5vw;
+    margin-bottom: 26%;
     text-align: left;
-    margin-left: 500px;
+    margin-left: 27%;
 }
 
 .movie_review
 {
-    font-weight: bolder;
-    font-size: 1.5em;
-    margin-bottom: 400px;
-    text-align: center;
-    border-style: solid;
-    margin-right: 800px;
-    background-color: #041721;
+    width: 20%;
+    margin-bottom: 30%;
+    margin-right: 80%;
 }
 
 .movie_tag
 {
-    margin-bottom: 660px;
-    width: 100px;
+    margin-bottom: 50%;
+    width: 10%;
     height: auto;
     float: left;
-    margin-left: 10px;
+    margin-left: 2%;
 }
 
 .movie_affiche

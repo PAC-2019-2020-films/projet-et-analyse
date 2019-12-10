@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc9e2cd6-6d61-48ac-9939-e02cd96f3dd1" name="Default Changelist" comment="">
+    <list default="true" id="bc9e2cd6-6d61-48ac-9939-e02cd96f3dd1" name="Default Changelist" comment="navbar and footer CSS">
+      <change afterPath="$PROJECT_DIR$/assets/css/nav_foot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat-v14-latin-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat-v14-latin-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat-v14-latin-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat-v14-latin-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/montserrat-v14-latin-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/button_my_account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/button_noir.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo_nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/1500-1000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/bohemian_rhapsody.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/1083_600.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/bohemian_rhapsody.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/coco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/green_book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/harry_potter_7_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/la_grande_vadrouille.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/sex_and_thcity_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/carousel/your_name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/coco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/green_book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/harry_potter_7_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/joker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/la_grande_vadrouille.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/sex_and_the_city_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/movies/your_name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/tag/biopic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/tag/drama.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pages/test_by_camol.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,79 +47,65 @@
     <session id="-713922017">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="5" />
-          <entry key="html" value="5" />
+          <entry key="css" value="6" />
+          <entry key="html" value="8" />
+          <entry key="js" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="5" />
-          <entry key="HTML" value="5" />
+          <entry key="CSS" value="6" />
+          <entry key="HTML" value="8" />
+          <entry key="JavaScript" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2039" />
-          <entry key="html" value="3853" />
+          <entry key="css" value="2154" />
+          <entry key="html" value="4061" />
+          <entry key="js" value="6" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2039" />
-          <entry key="HTML" value="3853" />
+          <entry key="CSS" value="2154" />
+          <entry key="HTML" value="4061" />
+          <entry key="JavaScript" value="6" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="60" />
+            <state relative-caret-position="629">
+              <caret line="523" column="26" lean-forward="true" selection-start-line="469" selection-start-column="4" selection-end-line="523" selection-end-column="26" />
               <folding>
+                <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#a#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#a#1;n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#5;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#section#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -105,11 +121,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/nav_foot.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/reference/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="772">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/reference/navbar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -117,14 +142,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1897">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-              <folding>
-                <element signature="e#167#189#0" />
-                <element signature="e#237#957#0" />
-                <element signature="e#970#973#0" />
-                <element signature="e#989#1021#0" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -134,10 +153,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>INCLUDE</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -150,7 +175,11 @@
         <option value="$PROJECT_DIR$/assets/pages/test_by_camol.html" />
         <option value="$PROJECT_DIR$/assets/css/nav_foot.css" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/assets/js/navbar.js" />
+        <option value="$PROJECT_DIR$/assets/js/include.js" />
+        <option value="$PROJECT_DIR$/assets/reference/navbar.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/reference/footer.html" />
       </list>
     </option>
   </component>
@@ -189,13 +218,13 @@
               <item name="camol" type="b2602c69:ProjectViewProjectNode" />
               <item name="camol" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="camol" type="b2602c69:ProjectViewProjectNode" />
               <item name="camol" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="reference" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,163 +238,6 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../w2w-diag-class.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../w2w-diag-er.png</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/Controller/BaseAdminController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/Controller/BaseController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/Controller/BaseUserController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/Controller/PublicMovieController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/Utils/Utils.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/ArtistDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/AuthenticationTokenDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/BaseDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/CategoryDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/MessageDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/MovieActorDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/MovieDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/MovieDirectorDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/MovieTagsDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/RatingDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/ReportDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/ReviewDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/RoleDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/TagsDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/DAO/UserDAO.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Artist.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/AuthenticationToken.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Category.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Message.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Movie.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Rating.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Report.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Review.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Role.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/Tag.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Model/User.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/AdminService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/BaseService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/ArtistPublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/CategoryPublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/MessagePublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/MoviePublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/PublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/RatingPublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/ReviewPublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/RolePublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/TagsPublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/Public/UserPublicService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../appsrc/classes/w2w/Service/UserService.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../modelio/w2w-class.zip</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/../modelio/w2w-er.zip</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -399,18 +271,28 @@
       <workItem from="1575355028793" duration="1442000" />
       <workItem from="1575565930358" duration="11306000" />
       <workItem from="1575734378227" duration="23701000" />
-      <workItem from="1575788737674" duration="16539000" />
+      <workItem from="1575788737674" duration="16763000" />
+      <workItem from="1575896839206" duration="4518000" />
+      <workItem from="1575965365802" duration="1796000" />
     </task>
+    <task id="LOCAL-00001" summary="navbar and footer CSS">
+      <created>1575896634101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575896634101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84350000" />
+    <option name="totallyTimeSpent" value="90888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13059701" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -424,14 +306,14 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3328786" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33188722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25997427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -445,7 +327,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3328786" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33188722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -458,21 +340,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="navbar and footer CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="navbar and footer CSS" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.html" />
+    <entry file="file://$PROJECT_DIR$/test.html" />
     <entry file="file://$PROJECT_DIR$/assets/pages/test_by_camol.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -480,60 +354,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/assets/css/nav_foot.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1897">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="272">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" column="100168" selection-start-line="5" selection-start-column="100168" selection-end-line="5" selection-end-column="100168" />
           <folding>
-            <element signature="e#167#189#0" />
-            <element signature="e#237#957#0" />
-            <element signature="e#970#973#0" />
-            <element signature="e#989#1021#0" />
+            <element signature="e#57526#57726#2" expanded="true" />
+            <element signature="e#57934#58083#2" expanded="true" />
+            <element signature="e#58585#58731#2" expanded="true" />
+            <element signature="e#59032#59198#1" expanded="true" />
+            <element signature="e#70814#71057#2" expanded="true" />
+            <element signature="e#71924#72173#2" expanded="true" />
+            <element signature="e#99236#99426#2" expanded="true" />
+            <element signature="e#99472#99662#2" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/nav_foot.css">
+    <entry file="file://$PROJECT_DIR$/assets/js/includeHTML.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="374">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/W3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="231" column="31" selection-start-line="231" selection-start-column="31" selection-end-line="231" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/reference/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="60" />
+        <state relative-caret-position="629">
+          <caret line="523" column="26" lean-forward="true" selection-start-line="469" selection-start-column="4" selection-end-line="523" selection-end-column="26" />
           <folding>
+            <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#a#1;n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#section#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#section#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
@@ -545,6 +433,13 @@
             <element signature="n#div#5;n#div#1;n#section#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/reference/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
         </state>
       </provider>
     </entry>
