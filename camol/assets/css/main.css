@@ -37,10 +37,6 @@ body
 .container {
 }
 
-body .bg_gris
-{
-    background-color: white;
-}
 
 /* CAROUSEL*/
 
@@ -99,7 +95,9 @@ text-align: left;
 
 .movie_review
 {
+    display : block;
     width: 20%;
+    height: auto;
     margin-bottom: 30%;
     margin-right: 80%;
 }
@@ -187,10 +185,36 @@ vert-align: middle;
 
 #top_5
 {
-    background-color: #ffde3c;
+    background-color: darkgray;
 }
 
 .bg-jaune
 {
     background-color: #ffde3c;
+}
+
+.bg-gris
+{
+    background-color: darkgray;
+}
+
+.top5_1st
+{
+    width: 95%;
+    height: auto;
+}
+
+.top5_second
+{
+    width: 48%;
+    height: auto;
+    padding-left: 5%;
+
+    padding-bottom: 5%;
+}
+
+.form_size
+{
+vertical-align: middle;
+    align-content: center;
 }
